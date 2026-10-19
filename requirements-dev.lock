@@ -1,0 +1,4 @@
+# Complete development/build tool set; runtime and tests use the standard library.
+pip==25.3
+setuptools==80.9.0
+wheel==0.45.1
